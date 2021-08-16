@@ -8,7 +8,7 @@ var name = "FATHUL NISA AINI\n 20 TAHUN";
 var sfxPop;
 
 function preload() {
-	foto = loadImage("assets/img/nisa.jpg");
+	foto = loadImage("assets/img/Nisa.jpg");
 	bgStatic = loadImage("assets/img/jakarta.png");
 	font = loadFont("assets/font/FredokaOne.ttf");
 	sfxPop = loadSound("assets/sfx/pop.mp3");
